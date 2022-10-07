@@ -1,0 +1,23 @@
+/* styles.css */
+
+body {
+  color: white;
+  background-color: black;
+  font-family: sans-serif;
+}
+
+p {
+  color: red;
+}
+
+li {
+	color: white;
+}
+
+a:visited {
+	color: pink;
+}
+
+a:hover {
+	color: lime;
+}
